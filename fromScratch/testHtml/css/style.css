@@ -1,0 +1,64 @@
+body{
+    background-color: lavender;
+    height: auto;
+}
+#top{
+    width:auto;
+    display:table;
+    height: 30%;
+    background-color: gray;
+}
+#namePlate{
+    float: left;
+    width: 50%;}
+.container{
+    margin-left: 15%;
+    width: 70%;
+    height: auto;
+    background-color: gray;
+    color:lightgray;
+    z-index: -1;
+    position: relative;
+    
+
+}
+#infoList{
+    float:right;
+    padding: 10px;
+    padding-left: 100px;
+}
+#bodyLeft{
+    float: left;
+    background-color: gray;
+    color: lightgray;
+    height: auto;
+    width: 70%;
+    /* border: 5px solid purple; */
+}
+#about{
+    color:lightgray;
+    background-color: gray;
+    padding: 15px;
+    border-bottom: 5px solid purple;
+}
+
+img{
+    width: auto;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: 5px solid purple;
+}
+.headerboys{
+    background-color: gray ;
+    color: white;
+    float:left;
+    padding: 5px;
+    display:table-cell;
+
+}
+#nav{
+    width:auto;
+    height: 8%;
+    background-color: lavender;
+    color:white;
+}
